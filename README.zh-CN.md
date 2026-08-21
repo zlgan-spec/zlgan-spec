@@ -12,6 +12,8 @@
 
 📦 [**ai-website-cloner-template**](https://github.com/zlgan-spec/ai-website-cloner-template) - 用一条命令 + AI coding agents 克隆任意网站
 
+🧹 [**tidy-skills**](https://github.com/zlgan-spec/tidy-skills) - 帮你管好其他 skill 的 agent skill：一个中央库、到处软链、一份 md 地图
+
 *（更多在路上 - 我在把每天在用的 AI 工作流整理成可分享的模板。）*
 
 ---
