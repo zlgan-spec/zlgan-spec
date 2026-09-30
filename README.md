@@ -12,7 +12,7 @@ I work on people development and culture at AfterShip - designing learning progr
 
 📦 [**ai-website-cloner-template**](https://github.com/zlgan-spec/ai-website-cloner-template) - Clone any website with one command using AI coding agents
 
-🧹 [**tidy-skills**](https://github.com/zlgan-spec/tidy-skills) - An agent skill that keeps your *other* skills tidy: one library, symlinks everywhere, a markdown map
+🧰 [**tried-and-true-ai**](https://github.com/zlgan-spec/tried-and-true-ai) - AI resources I've actually used and found helpful, curated from a non-technical background. Updated regularly
 
 *(More on the way - I'm turning the AI workflows I use daily into shareable templates.)*
 
