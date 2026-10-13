@@ -18,6 +18,19 @@ I work on people development and culture at AfterShip - designing learning progr
 
 ---
 
+## 🧭 How I learn
+
+I rarely start from zero. I start on the shoulders of giants - other people's skills, templates and open-source books - make them my own, then test them on real projects.
+
+|  | When a project needs it | When I have spare time |
+|---|---|---|
+| **Doing** | Build for the real need, fill gaps when I get stuck | Take apart others' skills and templates, make my own versions |
+| **Understanding** | Ask AI to explain the why before moving on | Skim glossaries and open-source books to know what's out there |
+
+Most of my time is in the top-left: real projects pull the learning forward.
+
+---
+
 ## 📚 Knowledge base
 
 Distilling years of people-development and culture work into open knowledge bases - methodologies, templates, checklists. Whatever can be shared, will be. I also hope these notes help more people see what functional roles really do - work that's often invisible, yet just as professional.
