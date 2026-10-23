@@ -14,6 +14,8 @@
 
 🧰 [**tried-and-true-ai**](https://github.com/zlgan-spec/tried-and-true-ai) - 非技术背景亲测好用的 AI 资源清单，持续更新
 
+🫘 [**doudou-pindou**](https://github.com/zlgan-spec/doudou-pindou) - DouDou 拼豆图纸：任意图片一键转成能直接拼的拼豆图纸，图片只在浏览器里处理。[在线使用](https://zlgan-spec.github.io/doudou-pindou/)
+
 *（更多在路上 - 我在把每天在用的 AI 工作流整理成可分享的模板。）*
 
 ---

@@ -14,6 +14,8 @@ I work on people development and culture at AfterShip - designing learning progr
 
 🧰 [**tried-and-true-ai**](https://github.com/zlgan-spec/tried-and-true-ai) - AI resources I've actually used and found helpful, curated from a non-technical background. Updated regularly
 
+🫘 [**doudou-pindou**](https://github.com/zlgan-spec/doudou-pindou) - DouDou: turn any image into a ready-to-make fuse bead (拼豆) pattern, right in the browser. [Try it online](https://zlgan-spec.github.io/doudou-pindou/)
+
 *(More on the way - I'm turning the AI workflows I use daily into shareable templates.)*
 
 ---
