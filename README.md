@@ -49,4 +49,4 @@ Most of my time is in the top-left: real projects pull the learning forward.
 
 ---
 
-📮 [rubyexternal316@gmail.com](mailto:rubyexternal316@gmail.com) · 🐦 [X](https://x.com/rrrubysayhello) · 💼 [LinkedIn](https://www.linkedin.com/in/ruby-gan-b46758251/)
+📮 [rubyexternal316@gmail.com](mailto:rubyexternal316@gmail.com) · 🐦 [X](https://x.com/rrrubysayhello) · 💼 [LinkedIn](https://www.linkedin.com/in/ruby-gan-b46758251/) · 📕 [小红书](https://www.xiaohongshu.com/user/profile/672a16e7000000001c01a8be)
