@@ -16,16 +16,6 @@ I work on people development and culture at AfterShip - designing learning progr
 
 🫘 [**doudou-pindou**](https://github.com/zlgan-spec/doudou-pindou) - DouDou: turn any image into a ready-to-make fuse bead (拼豆) pattern, right in the browser. [Try it online](https://zlgan-spec.github.io/doudou-pindou/)
 
-*(More on the way - I'm turning the AI workflows I use daily into shareable templates.)*
-
----
-
-## 📚 Knowledge base
-
-Distilling years of people-development and culture work into open knowledge bases - methodologies, templates, checklists. Whatever can be shared, will be. I also hope these notes help more people see what functional roles really do - work that's often invisible, yet just as professional.
-
-*(First one in the works - stay tuned.)*
-
 ---
 
 ## 🔭 What I'm building
