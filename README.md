@@ -2,7 +2,7 @@
 
 **English** · [中文](README.zh-CN.md)
 
-I work on people development and culture at AfterShip - designing learning programs and helping teams grow is what I love most. I don't have an engineering background and can't write a single line of code, but with AI coding agents, I've been rebuilding my entire workflow: knowledge management, content production, program operations. Along the way I found the best way to teach people about AI is to build with it yourself.
+I work on people development and culture - designing learning programs and helping teams grow is what I love most. I don't have an engineering background and can't write a single line of code, but with AI coding agents, I've been rebuilding my entire workflow: knowledge management, content production, program operations. Along the way I found the best way to teach people about AI is to build with it yourself.
 
 🧩 INTJ (Architect) - which probably explains why I can't help turning everything into a system.
 
