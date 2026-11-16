@@ -10,9 +10,9 @@ I work on people development and culture - designing learning programs and helpi
 
 ## ⭐ Projects
 
-📦 [**ai-website-cloner-template**](https://github.com/zlgan-spec/ai-website-cloner-template) - Clone any website with one command using AI coding agents
-
 🧰 [**tried-and-true-ai**](https://github.com/zlgan-spec/tried-and-true-ai) - AI resources I've actually used and found helpful, curated from a non-technical background. Updated regularly
+
+📦 [**ai-website-cloner-template**](https://github.com/zlgan-spec/ai-website-cloner-template) - Clone any website with one command using AI coding agents
 
 🫘 [**doudou-pindou**](https://github.com/zlgan-spec/doudou-pindou) - DouDou: turn any image into a ready-to-make fuse bead (拼豆) pattern, right in the browser. [Try it online](https://zlgan-spec.github.io/doudou-pindou/)
 
@@ -22,7 +22,6 @@ I work on people development and culture - designing learning programs and helpi
 
 - **Exploring AI across role boundaries** - AI is blurring the lines between jobs, and I'm using it to learn the languages of other crafts - product, design, engineering - and build things that used to be "not my job"
 - **Learning in public** - distilling daily practice into playbooks and templates, for non-technical professionals who want to truly change how they work with AI
-- **AI learning programs at work** - sharings, events, and learning mechanisms that help non-engineers discover what coding agents can do for them
 
 ---
 
@@ -39,4 +38,4 @@ Most of my time is in the top-left: real projects pull the learning forward.
 
 ---
 
-📮 [rubyexternal316@gmail.com](mailto:rubyexternal316@gmail.com) · 🐦 [X](https://x.com/rrrubysayhello) · 💼 [LinkedIn](https://www.linkedin.com/in/ruby-gan-b46758251/) · 📕 [小红书](https://www.xiaohongshu.com/user/profile/672a16e7000000001c01a8be)
+📮 [rubyexternal316@gmail.com](mailto:rubyexternal316@gmail.com) · 🐦 [X](https://x.com/RrrubyGan) · 💼 [LinkedIn](https://www.linkedin.com/in/ruby-gan-b46758251/) · 📕 [小红书](https://www.xiaohongshu.com/user/profile/672a16e7000000001c01a8be)
