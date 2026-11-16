@@ -10,9 +10,9 @@
 
 ## ⭐ 项目
 
-📦 [**ai-website-cloner-template**](https://github.com/zlgan-spec/ai-website-cloner-template) - 用一条命令 + AI coding agents 克隆任意网站
-
 🧰 [**tried-and-true-ai**](https://github.com/zlgan-spec/tried-and-true-ai) - 非技术背景亲测好用的 AI 资源清单，持续更新
+
+📦 [**ai-website-cloner-template**](https://github.com/zlgan-spec/ai-website-cloner-template) - 用一条命令 + AI coding agents 克隆任意网站
 
 🫘 [**doudou-pindou**](https://github.com/zlgan-spec/doudou-pindou) - DouDou 拼豆图纸：任意图片一键转成能直接拼的拼豆图纸，图片只在浏览器里处理。[在线使用](https://zlgan-spec.github.io/doudou-pindou/)
 
@@ -22,7 +22,6 @@
 
 - **跨界探索 AI** - AI 正在把岗位的边界变模糊，我在借它学不同角色的语言：产品、设计、工程……然后做出原来"不属于我"的东西
 - **Learning in public** - 把日常实践沉淀成 playbook 和模板，写给想用 AI 真正改变工作方式的非技术职场人
-- **公司里的 AI 学习项目** - 用分享、活动和学习机制，帮非工程师同学发现 coding agents 能为他们做什么
 
 ---
 
@@ -39,4 +38,4 @@
 
 ---
 
-📮 [rubyexternal316@gmail.com](mailto:rubyexternal316@gmail.com) · 🐦 [X](https://x.com/rrrubysayhello) · 💼 [LinkedIn](https://www.linkedin.com/in/ruby-gan-b46758251/) · 📕 [小红书](https://www.xiaohongshu.com/user/profile/672a16e7000000001c01a8be)
+📮 [rubyexternal316@gmail.com](mailto:rubyexternal316@gmail.com) · 🐦 [X](https://x.com/RrrubyGan) · 💼 [LinkedIn](https://www.linkedin.com/in/ruby-gan-b46758251/) · 📕 [小红书](https://www.xiaohongshu.com/user/profile/672a16e7000000001c01a8be)
